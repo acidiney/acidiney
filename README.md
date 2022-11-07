@@ -2,7 +2,7 @@
 
 I'm full stack developer, currently working as Software Developer. I'm a frontend addict and user experience, I love css with passion and always keep my mouth open when I discover a new possibilities. I love to see my systems working from front to back. I share my learnings on Youtube/Medium and anywhere that accepts me.
 
-You can see my blog on [Acidiney Dias](https://www.acidineydias.me)
+You can see my blog on [Acidiney Dias](https://www.acidineydias.dev)
 
 <!--
 **acidiney/acidiney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
