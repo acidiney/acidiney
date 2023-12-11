@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Sr. Software Engineer | Node.js, learning Elixir and Clojure | Vue.js & Angular & React.js | CI/CD | Cloud | Docker & Kubernetes | MacOS & Linux (apt, pacman, zypper)
+
 You can see my blog on [Acidiney Dias](https://www.acidineydias.dev)
 
 <!--
